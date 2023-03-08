@@ -1,6 +1,5 @@
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2",
-"spider":"http://52bsj.vip:81/api/v3/file/get/88728/%E6%94%AF%E6%8C%81%E7%BD%91%E7%9B%98.jar?sign=XJpqmFcWphnHou8wqjuQWlW0Ex8381WdGmmsSHU3U3g%3D%3A0;md5;5761F54CCFE6157E49F2F980F51D26FD",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
 "wallpaper":"http://101.34.67.237/pics",
