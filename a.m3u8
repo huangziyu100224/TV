@@ -1,6 +1,6 @@
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
 "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar;md5;ddaf13d7923ea1e333ea06ed93",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
