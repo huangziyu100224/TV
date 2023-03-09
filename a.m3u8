@@ -1,5 +1,6 @@
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2",
+"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0828.jar",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
 "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar;md5;ddaf13d7923ea1e333ea06ed93",
 
@@ -11,18 +12,21 @@
 "sites":[
 //,"jar":""
 {"key":"🐼接口不卖┃豆瓣","name":"🐼接口不卖┃豆瓣","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_77","name":"👒酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mgtv","name":"芒果TV〔SP〕","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频〔SP〕","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bili","name":"🅱哔哩合集〔SP〕","type":3,"api":"csp_Bili","filterable":1,"ext":"http://神器每日推送.tk/json/bilibili.json","date":"2023-02-1107:35:19"},
+{"key":"py_bilimy",name:"Bilibili",type:3,api:"py_bilimy",searchable:0,quickSearch:0,filterable:1,ext:"https://github.com/heroaku/TVboxo/raw/main/Py/py_bilimy.py"},
+{"key":"csp_Bili","name":"哔哩合集〔SP〕","type":3,"api":"csp_Bili","filterable":1,"ext":"http://神器每日推送.tk/json/bilibili.json","date":"2023-02-1107:35:19"},
 {"key":"优酷视频会员〔官源〕","name":"优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
 {"key":"搜狐视频会员〔官源〕","name":"搜狐〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/sohu/?ac=list"},
 {"key":"csp_app_源头","name":"🐈┃肥猫┃蓝光","type":1,"playerType":2,"api":"http://我是.肥猫.love:63/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xyq肥猫","name":"🐈┃肥猫┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/肥猫影视.json"},
 {"key":"csp_肥猫X","name":"🐈┃肥猫┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/肥猫影院.json"},
 {"key":"t4豆瓣","name":"🅱豆瓣荐片┃T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_XBiu口袋影院","name":"📩口袋┃XB","type":3,"api":"csp_XBiu","ext":{"homeUrl":"http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
+{"key":"csp_XBiu爱酷影视","name":"🎨爱酷┃XB","type":3,"api":"csp_XBiu","ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xBPQ新视觉","name":"🌟视觉〔SP〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
 {"key":"csp_xp_omofun","name":"🌅omofun日漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/omofun.json"},
 {"key":"Tian","name":"🆗天天〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
