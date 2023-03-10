@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/huangziyu100224/TV/blob/main/spider/4.jar",
+  "spider": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/XBiubiuLA3.jar",
   "lives": [
     {
       "group": "redirect",
