@@ -2,9 +2,7 @@
 "storeHouse":
 [
 
-{"sourceName":"官方云仓","sourceUrl":"https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/1/%E4%BA%91%E4%BB%93.json"},
-{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
-{"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
 {"sourceName": "安卓哥JS仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
 {"sourceName": "安卓哥PY仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
 {"sourceName":"星河1号仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"},
@@ -21,7 +19,6 @@
 {"sourceName": "网络精选7","sourceUrl": "https://box.nxog.top/1"},
 {"sourceName": "网络精选8","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/1bf5f4d3-893c-49e7-9ec0-56017a4f6b90.jpg"},
 {"sourceName": "网络精选9","sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"},
-{"sourceName": "欧歌主仓","sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName": "派大星仓库","sourceUrl": "http://tv.nxog.top/m/m/5.php?b=派大星"},
 {"sourceName": "其它在线","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"},
 {"sourceName":"吾爱1号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
