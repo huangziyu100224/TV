@@ -20,7 +20,7 @@
 //,"jar":""
 {"key":"🐼接口不卖┃豆瓣","name":"🐼接口不卖┃豆瓣","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_77","name":"👒酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"官方多包","name":"官方多仓","type":3,
+{"key":"官方多包","name":"官方多仓","type":3,"api":"https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/1.json","ext":"https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/1.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mgtv","name":"芒果TV〔SP〕","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
