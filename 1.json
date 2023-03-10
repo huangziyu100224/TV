@@ -2,7 +2,7 @@
 "storeHouse":
 [
 
-{"sourceName":"本地仓库","sourceUrl":"clan://localhost/1/lib/本地仓库.json"},
+{"sourceName":"官方本地仓库","sourceUrl":"https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/maim/1/lib/本地仓库.json"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
 {"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
