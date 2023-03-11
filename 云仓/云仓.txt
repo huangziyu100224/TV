@@ -7,7 +7,7 @@
 
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/a.m3u8",
-            "name": "🎁请选择🎁"
+            "name": "🎁↓请选择↓🎁"
         },
         
         {
