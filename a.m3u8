@@ -1,10 +1,10 @@
 {
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0308.jpg;md5;fd1b07d4bc51c76f592a56c3185efcfe",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider.jpg",
 "spider":"http://w.g9.pub:66/381203888/Jar/zy.jar;md5; E80798750ECA57470F29D1942BCE39BB",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
-"spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar;md5;ddaf13d7923ea1e333ea06ed93",
-//"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/XBiubiuLA3.jar",
-//"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/XBiubiuLA4.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider1.jpg",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider2.jpg",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider3.jpg",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
