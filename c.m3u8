@@ -20,7 +20,6 @@
 
 "sites":[
 //,"jar":""
-{"key":"🐼接口不卖┃豆瓣","name":"🐼接口不卖┃豆瓣","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_77","name":"👒酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://bbs.txwldh.com/vip.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
@@ -34,7 +33,12 @@
 {"key":"csp_fantuan","name":"🍙饭团┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
-
+{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv"},
+{"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Bd","name":"💥哔嘀┃SP","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
+{"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+{"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"}
 
 
 ],
