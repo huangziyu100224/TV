@@ -1,0 +1,26 @@
+{
+    "urls": [
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/a.m3u8",
+            "name": "🎁请选择🎁"
+        },
+
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/a.m3u8",
+            "name": "👑一号线(推荐)👑"
+        },
+        
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/b.m3u8",
+            "name": "☀二号线(备选)☀"
+        },
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/c.m3u8",
+            "name": "🌙三号线(备选)🌙"
+        },
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/a.m3u8",
+            "name": "🎁请选择🎁"
+        }
+    ]
+}
