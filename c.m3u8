@@ -24,7 +24,8 @@
 {"key":"csp_77","name":"👒酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://bbs.txwldh.com/vip.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"
+{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+
 
 
 ],
