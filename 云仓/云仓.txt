@@ -12,19 +12,23 @@
         
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/a.m3u8",
-            "name": "👑一号线路👑"
+            "name": "👑一号线👑"
         },
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/b.m3u8",
-            "name": "💎二号线路💎"
+            "name": "💎二号线💎"
         },
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/c.m3u8",
-            "name": "☀三号线路☀"
+            "name": "☀三号线☀"
         },
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/d.m3u8",
-            "name": "⭐四号线路⭐"
+            "name": "⭐四号线⭐"
+        },
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/e.m3u8",
+            "name": "🌙五号线🌙"
         }
     ]
 }
