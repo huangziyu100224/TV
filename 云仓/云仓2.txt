@@ -16,11 +16,11 @@
         },
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/1/b.m3u8",
-            "name": "👑二号线👑"
+            "name": "💎二号线💎"
         },
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/1/c.m3u8",
-            "name": "👑三号线👑"
+            "name": "🏳️‍🌈三号线🏳️‍🌈"
         }
     ]
 }
