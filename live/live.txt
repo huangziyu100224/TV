@@ -1179,7 +1179,7 @@ TVB星河,http://171.108.239.13:8181/tsfile/live/1005_1.m3u8
 宝鸡新闻综合,http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B {User-Agent@0151?zhend}
 
 
-【黑龙】,#genre#
+🇨🇳【黑龙江】,#genre#
 黑龙江,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-heilongjiangstv/1.m3u8?IASHttpSessionId=OTT?zheild
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 黑龙江文体,http://39.134.65.145/PLTV/88888888/224/3221226012/1.m3u8?zheild
