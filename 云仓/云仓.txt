@@ -35,11 +35,11 @@
             "name": "☁️六号线☁️"
         },
         {
-            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/g.m3u8",
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/f.m3u8",
             "name": "🏳️‍🌈七号线🏳️‍🌈"
         },
         {
-            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/h.m3u8",
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/f.m3u8",
             "name": "🌕八号线🌕"
         }
     ]
