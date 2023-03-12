@@ -29,6 +29,10 @@
         {
             "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/e.m3u8",
             "name": "🌙五号线🌙"
+        },
+        {
+            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/f.m3u8",
+            "name": "🌙六号线🌙"
         }
     ]
 }
