@@ -450,8 +450,8 @@ TVB星河,http://171.108.239.13:8181/tsfile/live/1005_1.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 
-【福建】,#genre#
-🇨🇳福建综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8?zfud
+🇨🇳【福建】,#genre#
+福建综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8?zfud
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?zfud
 福州影院,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8?zfud
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud
