@@ -1,25 +1,23 @@
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider1.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider2.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider3.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider4.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider5.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider6.jpg",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider7.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider1.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider2.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider3.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider4.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider5.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider6.jpg",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider7.jpg",
 //"spider":"http://w.g9.pub:66/381203888/Jar/zy.jar;md5; E80798750ECA57470F29D1942BCE39BB",
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
-"warningText": "接口由B站UP主晓然云OvO提供",
 "wallpaper":"http://101.34.67.237/pics",
 
 
 
 "sites":[
 //,"jar":""
-{"key":"🐼接口不卖┃豆瓣","name":"🐼接口不卖┃豆瓣","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_77","name":"👒酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_appysv2_万能影院〔APP〕","name":"🎊万能影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
