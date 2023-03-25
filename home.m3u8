@@ -12,6 +12,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
+"warningText": "接口为家庭专用接口",
 "wallpaper":"http://101.34.67.237/pics",
 
 
