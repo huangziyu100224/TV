@@ -1,0 +1,12 @@
+{
+	"spider": "https://raw.iqiq.io/lmlmi/ooo/master/Yoursmile.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://raw.iqiq.io/lmlmi/ooo/master/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+
+	"sites":[
