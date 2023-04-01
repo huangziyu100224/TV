@@ -6,8 +6,8 @@
       //  }
 
         {
-            "url": "https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/a.m3u8",
-            "name": "🎁↓请选择↓🎁"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E6%BA%90/home.m3u8",
+            "name": "🎁家庭专用线🎁"
         },
         
         {
