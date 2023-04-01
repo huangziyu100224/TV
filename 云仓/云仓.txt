@@ -10,7 +10,7 @@
             "name": "🎁家庭专用线🎁"
         },
         {
-        "url":"https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/%E6%B7%B7%E6%B2%8C/1.json",
+        "url":"https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/%E6%BA%90/%E6%B7%B7%E6%B2%8C/1.json",
            "name": "🌀混沌接口🌀"
         },
         {
