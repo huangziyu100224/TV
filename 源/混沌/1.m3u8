@@ -262,7 +262,7 @@
 {"key":"csp_xpath_jpys","name":"🦋极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/jpys.json"},
 {"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/duboku.json"},
 {"key":"csp_xpath_ttsp","name":"🦋天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/ttsp.json"},
-/{"key":"csp_xpath_Ole","name":"🦋欧乐(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/olevod.json"},
+{"key":"csp_xpath_Ole","name":"🦋欧乐(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/olevod.json"},
 {"key":"csp_xpath_ctv","name":"🦋冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"🦋汉城影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/hancheng.json"},
 {"key":"csp_xpath_4kpianku","name":"🦋4k片库网","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/4kpianku.json"},
