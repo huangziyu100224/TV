@@ -152,7 +152,7 @@
 {"key":"push_agent"        ,"name":"🛴推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"bdys"              ,"name":"🧲哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/磁力.json"},
 {"key":"csp_Tkys"          ,"name":"🐞天空影视(墙外)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1}, 
-key":"csp_xBPQ_荐片","name":"荐片影视|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/jpys.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
+{"key":"csp_xBPQ_荐片","name":"荐片影视|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/jpys.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
 {"key":"csp_xBPQ_爱看影视","name":"爱看影视|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/ikan.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
 {"key":"csp_xf_cs","name":"️FREEOK|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/86516.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
 {"key":"csp_xBPQ_um影院","name":"UM影院|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/umkan.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
