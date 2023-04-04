@@ -2707,6 +2707,22 @@
 {"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},
 {"name":"玺娜影视","type":1,"url":"https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url="},
 {"name":"林谷影视","type":1,"url":"http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=dhilnoCDHLOPQRUW29&url="},
+{"name":"猫影视json","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=2893307&key=adegjlrtDHIKNQU039&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+{
+            "name": "itvbox②",
+            "type": 1,
+            "url": "https://www.itvbox.cc/ffqy.php?url="
+        },
+   {
+	    "name":"猫影视③",
+	    "type":0,
+	    "url":"https://jm.maoyingshi.cc/?url="
+	},
+	{
+		"name": "猫影视④",
+		"type": 1,
+		"url": "https://api.mrcy0.com/a.php?url="
+	}, 
 {
 		"name": "云you解析①",
 		"type": 1,
