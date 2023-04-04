@@ -12,6 +12,7 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider10.jpg",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider11.jpg",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/huangziyu100224/TV/main/spider/spider12.jpg",
+"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 //"spider":"http://w.g9.pub:66/381203888/Jar/zy.jar;md5; E80798750ECA57470F29D1942BCE39BB",
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
 
@@ -25,6 +26,16 @@
 "sites":[
 //,"jar":""
 {"key": "js豆瓣1","name": "🌈js主页①","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
+{"key": "csp_Kunyu77","name": "🍎备份源一","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_CZSPP","name": "🍎备份源二","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "csp_Cokemv","name": "🍎备份源三","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "spider_IKan","name": "🍎备份源四","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "293视频","name": "🍎备份源五","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "KanSJ_spider","name": "🍎备份源六","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+{"key": "Lezhu_spider","name": "🍎备份源七","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+{"key": "Smdyy","name": "🍎备份源八","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "快看","name": "🍎备份源九","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key" : "drpy_js_超前点播","name" : "🎯超前点播","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"},
 {"key" : "drpy_js_子子影视","name" : "☁️子子影视","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"},
 {"key" : "drpy_js_创艺","name" : "🎞️创艺影视","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"},
