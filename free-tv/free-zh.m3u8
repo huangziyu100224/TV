@@ -16,7 +16,7 @@
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/huangziyu100224/TV/blob/main/live/live.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
 "warningText": "接口为家庭专用接口",
 "wallpaper":"http://101.34.67.237/pics",
 
