@@ -410,7 +410,6 @@
 {"key":"csp_Buka"          ,"name":"🐞真不卡📵","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555"         ,"name":"🐞555影视📵","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kmys"          ,"name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"3EDY"              ,"name":"🐞3EDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider"      ,"name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"Ekan_spider"       ,"name":"🐞Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Yj1211"        ,"name":"🐞在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
